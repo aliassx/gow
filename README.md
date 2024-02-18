@@ -1,2 +1,2 @@
 # gow
-Gow is a small software that I created that can bootstrap a small full stack app using Go, htmx and Bootstrap 5.
+Gow is a small software that can bootstrap Go apps fast. (Currently supports the generation of web apps and console apps)
